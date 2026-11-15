@@ -15,6 +15,7 @@ Agentware is the open-source SDK for the agents you build. Kei puts policies on 
 - [skills](https://github.com/HaikeiLabs/skills): Haikei Skills for coding assistants
 - [docs](https://github.com/HaikeiLabs/docs): the source of [docs.haikeilabs.com](https://docs.haikeilabs.com)
 - [kei-cli](https://github.com/HaikeiLabs/kei-cli): the `kei` CLI
+- [kei-connector-runtime](https://github.com/HaikeiLabs/kei-connector-runtime): `kei-proxy`, the Kei runtime that checks your agent's tool calls against your Kei policy
 - [kei-connector-contracts](https://github.com/HaikeiLabs/kei-connector-contracts): the connector contract
 
 ## Links
